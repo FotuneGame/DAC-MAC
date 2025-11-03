@@ -1,6 +1,6 @@
 const securityLevels = ["Открытые данные", "Секретно", "Совершенно секретно"];
 
-const users = ["Ivan", "Sergey", "Boris", "Anna"];
+const users = ["Ivan", "Sergey", "Boris", "Anna", "Vlad", "Max", "Grisha", "Anton", "Evgeny", "Olga"];
 const objects = ["Obj1", "Obj2", "Obj3"];
 
 const objectSecurity = {};

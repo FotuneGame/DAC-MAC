@@ -9,7 +9,7 @@ const permissionsDict = {
     7: "Полный доступ"
 };
 
-const users = ["Ivan", "Sergey", "Boris", "Anna", "Nina"];
+const users = ["Ivan", "Sergey", "Boris", "Anna"];
 const objects = ["Obj1", "Obj2", "Obj3", "Obj4"];
 
 const adminUser = users[Math.floor(Math.random() * users.length)];
